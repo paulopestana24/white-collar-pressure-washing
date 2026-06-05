@@ -1,0 +1,13 @@
+# ---- Confidential / internal — never publish ----
+CLAUDE.md
+PROJECT-NOTES.md
+
+# Dev/QA artifacts
+temporary screenshots/
+
+# OS / tooling
+node_modules/
+.DS_Store
+Thumbs.db
+*.log
+.vercel
